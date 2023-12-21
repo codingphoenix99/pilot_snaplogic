@@ -1,0 +1,32 @@
+We need to learn about 08 basic terms 
+
+they are 
+
+1. Snaps 
+2. Snap Packs 
+3. Pipelines
+4. Patterns 
+5. Tasks 
+6. Snaplexes
+7. Nodes
+8. Orgs 
+
+
+--------------------------------------------------------
+Snaps 
+Computational unit that performs a single data operation 
+Snaps only process data , they do not store any data 
+Snaps increses the re usability , by containerzing the functionality 
+We have 06 Types of Snaps 
+
+Read 
+Parse
+Transform 
+Flow
+Format 
+Write 
+
+
+
+
+
